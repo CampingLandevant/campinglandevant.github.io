@@ -503,7 +503,7 @@ iframe {
 
 
 #mu-video {
-	background-image: url("assets/images/about-video-bg.jpeg");
+	background-image: url("assets/images/about-video-bg.jpg");
 	background-attachment: fixed;
 	background-position: center center;
 	-webkit-background-size: cover;
@@ -640,7 +640,7 @@ iframe {
 /*--------------------*/
 
 #mu-testimonials {
-	background-image: url("assets/images/testimonials-bg.jpeg");
+	background-image: url("assets/images/testimonials-bg.jpg");
 	background-position: center center;
 	background-size: cover;
 	background-attachment: fixed;
